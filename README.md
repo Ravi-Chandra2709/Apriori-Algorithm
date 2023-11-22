@@ -3,7 +3,7 @@ This is an implementation of the Apriori Algorithm
 
 # Apriori Algorithm Implementation
 
-This repo is implementation of the Apriori algorithm to generate association rules based on user-supplied minimum support and minimum confidence values. The program processes input data from a file (`small.txt`) and produces various output files containing frequent itemsets, association rules, information summary, and visualizations as specified in the project description.
+This repo is implementation of the Apriori algorithm to generate association rules based on user-supplied minimum support and minimum confidence values. The program processes input data from a file (`small.txt`) and produces various output files containing frequent itemsets, association rules, information summary, and visualizations.
 
 ## Objective
 
